@@ -1,0 +1,13 @@
+{
+  "pages": [
+    "pages/music/music",
+    "pages/test/test"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#c25b5b",
+    "navigationBarTitleText": "网易音乐播放器",
+    "navigationBarTextStyle": "black"
+  },
+  "sitemapLocation": "sitemap.json"
+}

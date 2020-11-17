@@ -1,0 +1,19 @@
+<!--pages/test/test.wxml-->
+<swiper indicator-dots indicator-color="#fff" indicator-active-color="red" autoplay="true" interval="3000" circular="true">
+  <swiper-item>第1页</swiper-item>
+  <swiper-item>第2页</swiper-item>
+  <swiper-item>第3页</swiper-item>
+  <swiper-item>第4页</swiper-item>
+  <swiper-item>第5页</swiper-item>
+  <swiper-item>第6页</swiper-item>
+</swiper>
+<scroll-view scroll-y>
+  <view>第1页</view>
+  <view>第2页</view>
+  <view>第3页</view>
+</scroll-view>
+<scroll-view scroll-x class="shuiping">
+  <view>第1页</view>
+  <view>第2页</view>
+  <view>第3页</view>
+</scroll-view>
